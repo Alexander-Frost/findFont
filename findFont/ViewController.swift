@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        myFont.font = UIFont(name: "Hiragino Kaku Gothic StdN", size: 16) // put here the correct font name
+        myFont.font = UIFont(name: "Hiragino Kaku Gothic StdN", size: 16) // put the correct font name here
     }
 
 }
